@@ -10,7 +10,7 @@ using Persistence;
 namespace API.Controllers
 {
     [ApiController]
-    [Route("[controller]")]
+    [Route("api/[controller]")]
     public class ActivitiesController : BaseApiController
     {
         private readonly DataContext _context;
