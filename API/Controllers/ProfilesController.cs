@@ -1,5 +1,3 @@
-
-
 using Application.Profiles;
 using Microsoft.AspNetCore.Mvc;
 
